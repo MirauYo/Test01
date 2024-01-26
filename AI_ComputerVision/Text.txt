@@ -1,0 +1,22 @@
+Computer Vision:
+Jan 26, 2024 Time: 13.30 am -16.30 pm
+Please, submitted before deadline time 16.30 pm !!!
+
+!!! Only one laptop or tablet is allowed in this exam. !!!
+Answers will only be sent through the MS team.
+
+Topics:
+1.Feature extraction
+2.Image transformation
+3.Edge detection
+4.Image reconstruction (only Morphological reconstruction)
+
+Condition:
+1. Allows can open the PDF files of Introduction to Algorithms
+2. Allows open Browser for run “Google Colab” or VS code
+
+!!! It is not allow to use search engines like ChatGPT to find solutions.
+!!! All types of communication tools and social programs are not allowed.
+
+Score: 20 points ( 4 Multiple Choice,  1 Answer, 4 Coding)
+*** please, upload an image file or pdf file only ****
